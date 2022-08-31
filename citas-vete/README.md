@@ -1,4 +1,4 @@
-# Proyecto Citas Vet
+# Proyecto Seguimiento Pacientes Vet
 
 [Demo](https://relaxed-daifuku-5a0689.netlify.app/)
 
